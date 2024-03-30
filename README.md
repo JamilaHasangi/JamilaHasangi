@@ -10,6 +10,7 @@ Hi 👋, I'm Jamila Hasangi
 📫 How to reach me jamilahasangi02@gmail.com
 
 
+![Uploading Beige & Brown Simple Personal LinkedIn Banner.png…]()
 
 
 
