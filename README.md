@@ -9,8 +9,7 @@ Hi 👋, I'm Jamila Hasangi
 
 📫 How to reach me jamilahasangi02@gmail.com
 
-
-![Uploading Beige & Brown Simple Personal LinkedIn Banner.png…]()
+https://github.com/JamilaHasangi/JamilaHasangi/blob/fb9598dccfb8d7e145eb013a46488af28ac1a84c/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banner.png
 
 
 
