@@ -1,13 +1,17 @@
 # 💫 About Me:
 Hi 👋, I'm Jamila Hasangi
 
-I am following a BICT degree in University of Ruhuna in Sri Lanka.
+👩‍🎓I am following a BICT degree in University of Ruhuna in Sri Lanka.
 
 🌱 I’m currently learning .(Java, React, Python, MySQL, JavaScript, HTML, CSS, PHP,SpringBoot)
 
 👯 I’m looking to collaborate on Enterprise applications and Web development
 
 📫 How to reach me jamilahasangi02@gmail.com
+
+
+![Uploading Beige & Brown Simple Personal LinkedIn Banner.png…]()
+
 
 
 ## 🌐 Socials:
