@@ -9,7 +9,9 @@ Hi 👋, I'm Jamila Hasangi
 
 📫 How to reach me jamilahasangi02@gmail.com
 
-https://github.com/JamilaHasangi/JamilaHasangi/blob/fb9598dccfb8d7e145eb013a46488af28ac1a84c/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banner.png
+https://github.com/JamilaHasangi/JamilaHasangi/blob/fb9598dccfb8d7e145eb013a46488af28ac1a84c/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banne
+![Beige   Brown Simple Personal LinkedIn Banner](https://github.com/JamilaHasangi/JamilaHasangi/assets/102423170/ea72b520-3112-4c68-b989-426fb72584e6)
+r.png
 
 
 
@@ -28,8 +30,6 @@ https://github.com/JamilaHasangi/JamilaHasangi/blob/fb9598dccfb8d7e145eb013a4648
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JamilaHasangi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
