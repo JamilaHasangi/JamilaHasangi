@@ -3,14 +3,13 @@ Hi 👋, I'm Jamila Hasangi
 
 👩‍🎓I am following a BICT degree in University of Ruhuna in Sri Lanka.
 
-🌱 I’m currently learning .(Java, React, Python, MySQL, JavaScript, HTML, CSS, PHP,SpringBoot)
+🌱 I’m currently learning  (Java, React, Python, MySQL, JavaScript, HTML, CSS, PHP,SpringBoot)
 
-👯 I’m looking to collaborate on Enterprise applications and Web development
+👯 I’m looking to collaborate on Enterprise applications and Web development.
 
 📫 How to reach me jamilahasangi02@gmail.com
 
-https://github.com/JamilaHasangi/JamilaHasangi/blob/fb9598dccfb8d7e145eb013a46488af28ac1a84c/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banne
-![Beige   Brown Simple Personal LinkedIn Banner](https://github.com/JamilaHasangi/JamilaHasangi/assets/102423170/ea72b520-3112-4c68-b989-426fb72584e6)
+(https://github.com/JamilaHasangi/JamilaHasangi/assets/102423170/ea72b520-3112-4c68-b989-426fb72584e6)
 
 
 
