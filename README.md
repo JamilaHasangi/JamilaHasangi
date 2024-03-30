@@ -9,8 +9,9 @@ Hi 👋, I'm Jamila Hasangi
 
 📫 How to reach me jamilahasangi02@gmail.com
 
-(https://github.com/JamilaHasangi/JamilaHasangi/assets/102423170/ea72b520-3112-4c68-b989-426fb72584e6)
 
+
+![Beige   Brown Simple Personal LinkedIn Banner](https://github.com/JamilaHasangi/JamilaHasangi/assets/102423170/94a740a3-4640-4030-ac54-0e8b7c1c3042)
 
 
 
