@@ -3,7 +3,7 @@ Hi 👋, I'm Jamila Hasangi
 
 👩‍🎓I am following a BICT degree in University of Ruhuna in Sri Lanka.
 
-🌱 I’m currently learning  (Java, React, Python, MySQL, JavaScript, HTML, CSS, PHP,SpringBoot)
+🌱 I’m currently learning  (Java, React, flutter, Node js, Mongo DB, Redux, Next js, Python, MySQL, JavaScript, HTML, CSS, PHP,SpringBoot)
 
 👯 I’m looking to collaborate on Enterprise applications and Web development.
 
